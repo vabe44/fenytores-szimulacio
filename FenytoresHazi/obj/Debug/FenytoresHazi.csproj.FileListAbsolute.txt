@@ -1,0 +1,9 @@
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\bin\Debug\FenytoresHazi.exe.config
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\bin\Debug\FenytoresHazi.exe
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\bin\Debug\FenytoresHazi.pdb
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\obj\Debug\FenytoresHazi.csprojResolveAssemblyReference.cache
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\obj\Debug\FenytoresHazi.Form1.resources
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\obj\Debug\FenytoresHazi.Properties.Resources.resources
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\obj\Debug\FenytoresHazi.csproj.GenerateResource.Cache
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\obj\Debug\FenytoresHazi.exe
+C:\Users\GTX\Documents\Visual Studio 2015\Projects\OKJ\FenytoresHazi\FenytoresHazi\obj\Debug\FenytoresHazi.pdb
